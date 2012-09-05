@@ -1,1 +1,5 @@
-2012/09/05-16:06:42.243 cb0 Delete type=3 #1
+2012/09/05-16:09:58.483 1cec Recovering log #3
+2012/09/05-16:09:58.483 1cec Level-0 table #5: started
+2012/09/05-16:09:58.494 1cec Level-0 table #5: 3745 bytes OK
+2012/09/05-16:09:58.500 1cec Delete type=0 #3
+2012/09/05-16:09:58.501 1cec Delete type=3 #2
