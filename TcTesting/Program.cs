@@ -12,6 +12,7 @@ namespace TcTesting
         {
             Console.WriteLine("Hello Wolrd");
             Console.ReadKey();
+            Console.WriteLine("Goodbye Cruel Wolrd");
         }
     }
 }
